@@ -1,0 +1,4 @@
+
+exports.highestScoringWord = (word) => {
+
+  }
